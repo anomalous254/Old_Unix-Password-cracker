@@ -1,6 +1,6 @@
 #!bin/env/python
 
-# password cracker for old unix using cryp algorithm to hash passwords
+# password cracker for old unix using crypt algorithm to hash passwords
 # code by: anomalous254 | nyando | am_request
 # github: www.github.com/anomalous254
 
